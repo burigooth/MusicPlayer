@@ -1,0 +1,68 @@
+[
+    {
+        "img": "assets/img/eternosalunos.jpg",
+        "name": "Eternos Alunos",
+        "artist": "MC Ph, MC Hariel e MC Don Juan",
+        "music": "assets/songs/eternosalunos.mp3"
+    },
+    {
+        "img": "assets/img/invicto.jpg",
+        "name": "Invicto",
+        "artist": "Filipe Ret",
+        "music": "assets/songs/invicto.mp3"
+    },
+    {
+        "img": "assets/img/war.jpg",
+        "name": "War",
+        "artist": "Filipe Ret",
+        "music": "assets/songs/war.mp3"
+    },
+    {
+        "img": "assets/img/medodequasenada.jpg",
+        "name": "Medo de Quase Nada",
+        "artist": "LEAL",
+        "music": "assets/songs/medodequasenada.mp3"
+    },
+    {
+        "img": "assets/img/tempo.jpg",
+        "name": "Tempo",
+        "artist": "Mc Kako",
+        "music": "assets/songs/tempo.mp3"
+    },
+    {
+        "img": "assets/img/freestyle.jpg",
+        "name": "Freestyle",
+        "artist": "Lil Baby",
+        "music": "assets/songs/freestyle.mp3"
+    },
+    {
+        "img": "assets/img/popout.jpg",
+        "name": "Pop Out",
+        "artist": "Polo G feat.Lil Tjay",
+        "music": "assets/songs/popout.mp3"
+    },
+    {
+        "img": "assets/img/tommylee.jpg",
+        "name": "Tommy Lee",
+        "artist": "Tyle Yaweh feat.Post Malone",
+        "music": "assets/songs/tommylee.mp3"
+    },
+    {
+        "img": "assets/img/lifesamess.jpg",
+        "name": "Life's A Mess",
+        "artist": "Juice WRLD",
+        "music": "assets/songs/lifesamess.mp3"
+    },
+    {
+        "img": "assets/img/allgirlsarethesame.jpg",
+        "name": "All Girls Are The Same",
+        "artist": "Juice WRLD",
+        "music": "assets/songs/allgirlsarethesame.mp3"
+    },
+    {
+        "img": "assets/img/sosick.jpg",
+        "name": "So Sick",
+        "artist": "Ne-Yo",
+        "music": "assets/songs/sosick.mp3"
+    }
+]

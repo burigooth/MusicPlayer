@@ -1,1 +1,3 @@
-# MusicPlayer
+ <h1 align="center"> :headphones:		MusicPlayer </h1>
+
+<p> Este é um projeto desenvolvido para prática e estudos, utilizando JavaScript com a biblioteca particles.js para criar uma experiência visual atraente. Este projeto oferece uma implementação básica de um player de música, permitindo reproduzir arquivos de áudio no formato MP3. Ele oferece controles simples de reprodução, como play, pause e stop, e permite a navegação entre faixas de uma lista de reprodução. Além disso, a integração com particles.js proporciona um fundo dinâmico de partículas, tornando a experiência de uso mais envolvente. Obrigado pela atenção! 😊</p>
